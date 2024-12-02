@@ -1,0 +1,18 @@
+TO DO
+
+1-12-2024
+
+1. Add feature to write into csv files from your List<String[]> data structure (done)
+2. Handling edge cases like missing lines, missing fields, and malformed rows (done)
+3. Custom exception for better user experience instead of IOException
+
+2-12-2024
+
+(Start version controlling the project with GitHub)
+1. Search for Rows Containing a Specific Value
+2. Sort Rows by a Specific Column
+3. Export Filtered Data to a New CSV File
+Stretch Goals (If You Finish Quickly):
+    Calculate Basic Statistics: Add functionality to calculate basic statistics like the minimum, maximum, and average for numeric columns.
+    Update Rows: Allow modification of specific rows or cells.
+    Handle Quoted Strings: Enhance parsing to handle values enclosed in quotes that may contain delimiters.
